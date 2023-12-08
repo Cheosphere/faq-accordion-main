@@ -1,0 +1,38 @@
+/* Variables */
+:root {
+    --white: hsl(0, 0%, 100%);
+    --light-pink: hsl(275, 100%, 97%);
+    --grayish-purple: hsl(292, 16%, 49%);
+    --dark-purple: hsl(292, 42%, 14%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    background-color: var(--light-pink);
+}
+
+#app {
+    width: auto;
+    height: inherit;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 940px) {
+    body {
+        min-height: 800px;
+    }
+}
+
