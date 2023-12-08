@@ -5,6 +5,8 @@ El desafío es construir este acordeón de preguntas frecuentes y lograr que se 
 - HTML
 - CSS
 - Vue JS - Composition API & Vite
+- 
+![desktop-preview](https://github.com/Cheosphere/faq-accordion-main/assets/112582420/a000925b-fb62-4bce-9537-4c9549ddd305)
 
 # Guía de Estilo
 
